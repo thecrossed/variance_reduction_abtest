@@ -1,2 +1,18 @@
-# variance_reduction_abtest
-This is the capstone project of the Udacity Data Scientist nano-degree program.
+# About
+
+
+# Motivation
+Questions to ask
+
+
+# Requiments
+Python Libraries like ... 
+
+
+# Description of each file
+
+
+# Summary of analysis
+
+
+# Acknowledgement
