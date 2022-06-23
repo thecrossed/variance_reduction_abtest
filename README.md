@@ -8,10 +8,15 @@ Questions to ask
 3. How to use Python to implement each method?
 
 # Requiments
-Python Libraries like ... 
-
+Python libraries
+pandas
+numpy
+math
 
 # Description of each file
+variance reduction.ipython is the main file showcasing the analysis
+README.md file introduces the project at a high level
+training_ab_starbucks.csv is the dataset for the analysis
 
 
 # Summary of analysis
