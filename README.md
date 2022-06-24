@@ -23,7 +23,7 @@ training_ab_starbucks.csv is the dataset for the analysis
 
 
 # Summary of analysis
-
+We adopted three techniques to reduce variance for the Starbucks customer dataset. The result is increasing the sample size doesn't bring us a clear reduction of variance, while on the other hand, changing the mean metrics into conversion rate and stratification significantly reduces the variance.
 
 # Acknowledgement
 Great gratitude to Udacity.com for setting up this nano-degree program, to Starbucks for sharing the public dataset, and to paper authors publishing their findings on this topic.
