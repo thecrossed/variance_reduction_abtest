@@ -1,7 +1,7 @@
 # About
 This is a capstone project of the Udacity Data Scientist Nano-degree project. It tries different approaches for variance reduction, which is a industry-wide technique to increase sensitivety of business metrics.
 
-You can also read the related blog (here)[https://medium.com/@tianmin/variance-reduction-techniques-78887a496e2].
+You can also read the related blog [here](https://medium.com/@tianmin/variance-reduction-techniques-78887a496e2).
 
 # Motivation
 Questions to ask
