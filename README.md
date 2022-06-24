@@ -14,6 +14,7 @@ Python libraries
 pandas
 numpy
 math
+plotly
 
 # Description of each file
 variance reduction.ipython is the main file showcasing the analysis
